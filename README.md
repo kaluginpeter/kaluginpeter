@@ -6,6 +6,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaluginpeter)](https://git.io/streak-stats)
 ![Codewars](https://github.r2v.ch/codewars?user=kaluginpeter&top_languages=true)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kaluginpeter&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!---
 kaluginpeter/kaluginpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
