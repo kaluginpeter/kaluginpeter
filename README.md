@@ -5,7 +5,7 @@
 - 📫 How to reach me Instagramm @kaluginpeter or Telegram @kaluginpeter
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaluginpeter)](https://git.io/streak-stats)
-https://www.codewars.com/users/kaluginpeter/badges/large
+![Codewars](https://github.r2v.ch/codewars?user=kaluginpeter&top_languages=true)
 <!---
 kaluginpeter/kaluginpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
