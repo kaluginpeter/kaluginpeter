@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaluginpeter and I want to learn python development
-- 👀 I’m interested in Python Development and other Python development(Web, GameDev, Data Science)
+- 👀 I’m interested in Python Development (Backend, Data Science)
 - 🌱 I’m currently learning yourself and with friends
 - 💞️ I’m looking to collaborate  with somebody who wanna write coding, be a friend and learn python with me) 
 - 📫 How to reach me Instagramm @kaluginpeter or Telegram @kaluginpeter
