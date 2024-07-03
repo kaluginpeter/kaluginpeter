@@ -29,9 +29,10 @@
 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaluginpeter)](https://git.io/streak-stats)
-![Codewars](https://github.r2v.ch/codewars?user=kaluginpeter&top_languages=true)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kaluginpeter&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Codewars](https://github.r2v.ch/codewars?user=kaluginpeter&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kaluginpeter?ext=contest)
 
 <!---
 kaluginpeter/kaluginpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
