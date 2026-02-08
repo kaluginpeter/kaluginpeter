@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaluginpeter
-- 👀 I’m interested in Software Engineering, Machine Learning and Competitive Programming
+- 👀 I’m interested in Software Engineering, Machine Learning and Competitive Programming!
 - 🌱 I’m currently learning yourself and with friends
 - 💞️ I’m looking to collaborate  with somebody who wanna write coding, be a friend and learn python with me) 
 - You can see my profile on:
